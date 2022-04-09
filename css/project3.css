@@ -122,6 +122,13 @@ a {
     bottom: 200px;
     left: 0;
 }
+@media(max-width: 767px){
+  .dots-down {display: none;
+  }
+  .dots-up {display: none;
+  }
+
+}
   /* End Global Rules */
   /* Start header  */
   .header {
